@@ -84,7 +84,7 @@ Western Weddell Sea Deep, Weddell Sea Shelf, Weddell Sea Deep,
 Bellingshausen Sea Shelf, Bellingshausen Sea Deep, Amundsen Sea Shelf,
 Amundsen Sea Deep, Eastern Ross Sea Shelf, Eastern Ross Sea Deep,
 Western Ross Sea Shelf, Western Ross Sea Deep, East Antarctic Seas Shelf,
-East Antarctic Seas Deep.
+East Antarctic Seas Deep, FRIS cavity.
 
 Ice-shelf Regions
 ~~~~~~~~~~~~~~~~~

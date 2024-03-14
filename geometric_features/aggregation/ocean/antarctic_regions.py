@@ -24,7 +24,7 @@ def antarctic(gf):
                'Amundsen Sea Shelf', 'Amundsen Sea Deep',
                'Eastern Ross Sea Shelf', 'Eastern Ross Sea Deep',
                'Western Ross Sea Shelf', 'Western Ross Sea Deep',
-               'East Antarctic Seas Shelf', 'East Antarctic Seas Deep']
+               'East Antarctic Seas Shelf', 'East Antarctic Seas Deep', 'FRIS cavity']
 
     fc = gf.read(componentName='ocean', objectType='region',
                  featureNames=regions)
