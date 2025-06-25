@@ -1691,6 +1691,9 @@
       "Antilles Inflow": [
         "standard_transport_sections"
       ],
+      "Asc Amery": [
+        "standard_transport_sections"
+      ],
       "Baja CA blockage": [
         "Baja_CA_blockage",
         "Critical_Land_Blockage"

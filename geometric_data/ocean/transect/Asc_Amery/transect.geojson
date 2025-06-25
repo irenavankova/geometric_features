@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asc Amery",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        64.0,
+                        -68.0
+                    ],
+                    [
+                        64.7,
+                        -65.8
+                    ]
+                ]
+            }
+        }
+    ]
+}

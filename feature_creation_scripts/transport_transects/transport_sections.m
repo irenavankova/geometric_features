@@ -100,6 +100,7 @@ sectionCoord = [...
  -70.0   30    -31.3   30  ;... % Afri-Ant
   10.7  -63.2   18.0  -65.9;... % Antilles
   18.4  -67.2   18.4  -68.5;... % Mona Passage
+  -68.0  64   -65.8  64.7  ;... % ASC Amery
   19.8  -73.4   20.1  -74.3;... % Windward Passage
   23.1  -81.0   25.15 -81.0;... % Florida-Cuba
   26.52 -78.78  26.7  -80.1;... % Florida-Bahamas
