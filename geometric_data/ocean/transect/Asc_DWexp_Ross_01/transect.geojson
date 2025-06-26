@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asc DWexp Ross 01",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -161.7,
+                        -76.2
+                    ],
+                    [
+                        -164.4,
+                        -76.0
+                    ],
+                    [
+                        -166.5,
+                        -76.0
+                    ],
+                    [
+                        -168.8,
+                        -75.9
+                    ],
+                    [
+                        -171,
+                        -76.0
+                    ],
+                    [
+                        -173.1,
+                        -75.7
+                    ],
+                    [
+                        -174.3,
+                        -75.4
+                    ],
+                    [
+                        -176,
+                        -75.0
+                    ],
+                    [
+                        -177.2,
+                        -74.5
+                    ],
+                    [
+                        -178.4,
+                        -74.1
+                    ],
+                    [
+                        -179.7,
+                        -74.0
+                    ]
+                ]
+            }
+        }
+    ]
+}

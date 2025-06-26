@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asc DWexp Weddell 03",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.5,
+                        -72.6
+                    ],
+                    [
+                        -50.4,
+                        -72.1
+                    ],
+                    [
+                        -53.7,
+                        -71.7
+                    ],
+                    [
+                        -55.1,
+                        -71.1
+                    ],
+                    [
+                        -55.8,
+                        -70.6
+                    ],
+                    [
+                        -55.6,
+                        -69.9
+                    ]
+                ]
+            }
+        }
+    ]
+}

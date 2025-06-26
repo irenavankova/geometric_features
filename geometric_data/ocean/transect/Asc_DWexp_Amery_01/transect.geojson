@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asc DWexp Amery 01",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.0,
+                        -66.8
+                    ],
+                    [
+                        71.1,
+                        -66.8
+                    ],
+                    [
+                        70.0,
+                        -66.8
+                    ],
+                    [
+                        69.5,
+                        -66.9
+                    ],
+                    [
+                        68.3,
+                        -67.0
+                    ],
+                    [
+                        67.0,
+                        -66.8
+                    ],
+                    [
+                        66.1,
+                        -66.7
+                    ]
+                ]
+            }
+        }
+    ]
+}
