@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Asc Amery",
+                "name": "Asc Ross 04",
                 "tags": "standard_transport_sections",
                 "object": "transect",
                 "component": "ocean",
@@ -16,12 +16,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        64.0,
-                        -68.0
+                        167.9,
+                        -71.1
                     ],
                     [
-                        64.7,
-                        -65.8
+                        172.7,
+                        -69.4
                     ]
                 ]
             }
