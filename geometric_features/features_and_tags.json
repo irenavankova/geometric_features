@@ -1014,6 +1014,10 @@
       ]
     },
     "region": {
+      "A010": [
+        "A010",
+        "Antarctic"
+      ],
       "Adriatic Sea": [
         "Adriatic_Sea",
         "Mediterranean_Basin"
