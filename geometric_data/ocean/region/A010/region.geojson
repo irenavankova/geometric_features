@@ -1,36 +1,29 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A010",
-                "tags": "Antarctic;Shelf",
-                "object": "region",
-                "component": "ocean",
-                "author": "Irena Vankova",
-                "zmax": -0.0,
-                "zmin": -1000.0
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -64, -64
-                        ],
-                        [
-                            -64, -64
-                        ],
-                        [
-                            -62, -63
-                        ],
-                        [
-                            -62, -63
-                        ]
-                    ]
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A010",
+        "tags": "Antarctic;Shelf",
+        "object": "region",
+        "component": "ocean",
+        "author": "Irena Vankova",
+        "zmax": -0.0,
+        "zmin": -1000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-64, -64],
+            [-62, -64],
+            [-62, -63],
+            [-64, -63],
+            [-64, -64]
+          ]
+        ]
+      }
+    }
+  ]
 }
