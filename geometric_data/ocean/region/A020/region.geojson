@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A020",
+        "tags": "Antarctic;Shelf",
+        "object": "region",
+        "component": "ocean",
+        "author": "Irena Vankova",
+        "zmax": -0.0,
+        "zmin": -1000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-69, -66],
+            [-67, -66],
+            [-67, -65],
+            [-69, -65],
+            [-69, -66]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A320",
+        "tags": "Antarctic;Shelf",
+        "object": "region",
+        "component": "ocean",
+        "author": "Irena Vankova",
+        "zmax": -0.0,
+        "zmin": -1000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-57, -66],
+            [-55, -66],
+            [-55, -65],
+            [-57, -65],
+            [-57, -66]
+          ]
+        ]
+      }
+    }
+  ]
+}
