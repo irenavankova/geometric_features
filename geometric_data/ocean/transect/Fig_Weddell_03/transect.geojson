@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Asc Weddell 03",
+                "name": "Fig Weddell 03",
                 "tags": "standard_transport_sections",
                 "object": "transect",
                 "component": "ocean",
