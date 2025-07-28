@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fig DML 03",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -70.1,
+                        -68.2
+                    ],
+                    [
+                        4.2,
+                        4.2
+                    ]
+                ]
+            }
+        }
+    ]
+}

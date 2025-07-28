@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fig Ross 04",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -71.1,
+                        -71.1
+                    ],
+                    [
+                        167.9,
+                        173.7
+                    ]
+                ]
+            }
+        }
+    ]
+}

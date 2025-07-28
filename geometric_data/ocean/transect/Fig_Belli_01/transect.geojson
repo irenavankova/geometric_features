@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fig Belli 01",
+                "tags": "standard_transport_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Irena Vankova",
+                "depth": "6000.0",
+                "note": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -65.1,
+                        -62.9
+                    ],
+                    [
+                        -64.5,
+                        -64.5
+                    ]
+                ]
+            }
+        }
+    ]
+}
