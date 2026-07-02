@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F17",
+                "tags": "manually_drawn_sections",
+                "object": "transect",
+                "component": "ocean",
+                "author": "Python multi-pair ginput script",
+                "note": "FRIS region generated transect segment: F17"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.93869629355505,
+                        -73.19757718409713
+                    ],
+                    [
+                        -44.11269599507109,
+                        -71.23918656424068
+                    ]
+                ]
+            }
+        }
+    ]
+}
