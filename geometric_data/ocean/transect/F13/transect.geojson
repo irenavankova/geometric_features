@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "F13",
-                "tags": "manually_drawn_sections",
+                "tags": "standard_transport_sections",
                 "object": "transect",
                 "component": "ocean",
                 "author": "Python multi-pair ginput script",
