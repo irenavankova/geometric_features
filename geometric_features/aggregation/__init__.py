@@ -122,7 +122,7 @@ def get_aggregator_by_name(region_group):
         },
         'Transport Transects': {
             'prefix': 'transportTransects',
-            'date': '20210323',
+            'date': '20260709',
             'function': transport,
         },
         'Arctic Transport Transects': {
